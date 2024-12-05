@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a passionate front-end developer with a strong focus on building dynamic and responsive web applications using modern JavaScript frameworks and tools. I have experience working on e-commerce platforms, event-organization platform, and open-source projects. My expertise spans across technologies such as React, Next.js, Redux, and more.
+I am a passionate front-end developer with a strong focus on building dynamic and responsive web applications using modern JavaScript frameworks and tools. Some of my past work is in developing an e-commerce platform, event-organization platform, and contributions to open-source projects. My expertise spans across technologies such as React, Next.js, Redux, Tailwind and more.
 
 ### 📫 Contact
 
